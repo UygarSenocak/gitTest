@@ -5,6 +5,9 @@ public class Main {
     public static void main (String[] args)
     {
         System.out.print("Hallo Welt!!");
-        System.out.print("TEst");
+        System.out.print("Test");
+
+
+        System.out.print("Ich bin Test");
     }
 }
